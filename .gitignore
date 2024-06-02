@@ -1,0 +1,13 @@
+*.o
+*.d
+*.crf
+*.dep
+*.lst
+*.axf
+*.htm
+*.hex
+*.lnp
+*.sct
+*.txt
+module/mcu/stm32f103/__Previews
+module/mcu/stm32f103/History
