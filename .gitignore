@@ -9,5 +9,8 @@
 *.lnp
 *.sct
 *.txt
-module/mcu/stm32f103/__Previews
-module/mcu/stm32f103/History
+module/mcu/stm32-unit/f103/__Previews
+module/mcu/stm32-unit/f103/History
+module/mcu/stm32-unit/History
+lib/History
+lib/__Previews
